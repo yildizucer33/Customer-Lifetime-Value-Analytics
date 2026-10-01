@@ -75,3 +75,4 @@ Other columns such as gender, income level, and region were used for exploratory
   - Testing alternative clustering methods (e.g., Hierarchical, DBSCAN)
   - Incorporating additional features (e.g., channel usage, transaction frequency)
   - Deploying as a web application for business users
+    
